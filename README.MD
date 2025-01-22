@@ -50,9 +50,7 @@ fake-job-post-detection/
 ├── tfidf_vectorizer.pkl         # TF-IDF vectorizer
 ├── README.md                    # Documentation
 ```
-
 ---
-
 ## Steps to Run the Project
 
 ### 1. Clone the Repository
@@ -116,7 +114,6 @@ This will launch a window where you can input job descriptions and get predictio
 Contributions are welcome! If you'd like to make improvements or fix issues, feel free to create a pull request or open an issue in the repository.
 
 ---
-
 ## License
 This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
 
